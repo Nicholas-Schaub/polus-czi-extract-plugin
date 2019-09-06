@@ -1,0 +1,3 @@
+[submodule "bfio"]
+	path = src/bfio
+	url = https://github.com/Nicholas-Schaub/bfio.git
